@@ -19,7 +19,7 @@ public class LcfTest {
 	private TransactionAInterface ta;
 	@Autowired
 	private TransactionBInterface tb;
-
+	// THIS IS TEST
 	@Test
 	public void test() {
 		TableA tableA = new TableA();
